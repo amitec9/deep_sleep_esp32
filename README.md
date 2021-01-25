@@ -1,4 +1,4 @@
-# deep_sleep_esp32
+# Deep_sleep_esp32
 
 # Author :- Amit Kumar
 
